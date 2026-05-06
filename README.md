@@ -32,4 +32,4 @@ This project analyzes chocolate shipment data using MySQL and Power BI. The proj
 * dashboard.png
 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
