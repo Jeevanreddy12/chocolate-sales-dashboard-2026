@@ -30,3 +30,6 @@ This project analyzes chocolate shipment data using MySQL and Power BI. The proj
 * Chocolate_Sales_Dashboard.pbix
 * queries.sql
 * dashboard.png
+Dashboard Preview
+
+![Dashboard](dashboard.png)
